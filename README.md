@@ -5,7 +5,7 @@ I'm a passionate **Software Developer** skilled in **C++, Java, and Python**, wi
 ## What I Do:
 - **Programming:** C++, Java, Python
 - **AI & Machine Learning:** Exploring AI, working on deep learning models
-- **Full-Stack Web Dev:** Django, Flask, JavaScript, React, Node.js
+- **Full-Stack Web Dev:** Django, Flask, JavaScript, React, Node.js, FastApi
 - **Networking & Hosting:** Forwarding, Server Management, Deployment
 - **Databases:** SQL, MySQL
 - **GUI Development:** Tkinter (Python)
