@@ -5,12 +5,12 @@
 </div>
 
 ```
-██████╗  █████╗  ██████╗██╗  ██╗███████╗███╗   ██╗██████╗     ██╗
-██╔══██╗██╔══██╗██╔════╝██║ ██╔╝██╔════╝████╗  ██║██╔══██╗   ██╔╝
-██████╔╝███████║██║     █████╔╝ █████╗  ██╔██╗ ██║██║  ██║  ██╔╝ 
-██╔══██╗██╔══██║██║     ██╔═██╗ ██╔══╝  ██║╚██╗██║██║  ██║ ██╔╝  
-██████╔╝██║  ██║╚██████╗██║  ██╗███████╗██║ ╚████║██████╔╝██╔╝   
-╚═════╝ ╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═══╝╚═════╝ ╚═╝   
+██████╗  █████╗  ██████╗██╗  ██╗███████╗███╗   ██╗██████╗     ██████╗    ██████╗ ██╗      ╔██
+██╔══██╗██╔══██╗██╔════╝██║ ██╔╝██╔════╝████╗  ██║██╔══██╗    ██╔══██╗   ██       ██╗    ╔██
+██████╔╝███████║██║     █████╔╝ █████╗  ██╔██╗ ██║██║  ██║    ██║  ██║   ██████╗   ██╗  ╔██
+██╔══██╗██╔══██║██║     ██╔═██╗ ██╔══╝  ██║╚██╗██║██║  ██║    ██║  ██║   ██         ██╗╔██
+██████╔╝██║  ██║╚██████╗██║  ██╗███████╗██║ ╚████║██████╔╝    ██████╔╝   ██████╗      ██
+╚═════╝ ╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═══╝╚═════╝     ╚═════╝    ╚═════╝      ╚╝       
 ```
 
 <div align="center">
@@ -110,6 +110,8 @@ class Faizan:
 | 01 | **[Chatify AI](https://faizan-portfolio-dv8r.vercel.app)** | `Python` `FastAPI` `RAG` `WebSockets` | Production RAG chatbot — PDFs, Excel, URLs, APIs as knowledge sources |
 | 02 | **[E-Commerce Platform](https://faizan-portfolio-dv8r.vercel.app)** | `React` `Next.js` `FastAPI` `Tailwind` | SSR storefront, SEO-optimized, lazy-loaded, full-stack |
 | 03 | **[Laws API](https://faizan-portfolio-dv8r.vercel.app)** | `Python` `FastAPI` `Scraping` `REST` | U.S. legal data scraped, structured, and searchable via REST API |
+| 04 | **[Voice Agent Assistant](http://fastapi123.duckdns.org/docs)** | `FastAPI` `WebSockets` `STT` `AI` | Real-time voice processing API — low-latency WebSocket comms, speech-to-text, context management |
+| 05 | **[AI Interview System](http://ariafrontend.duckdns.org)** | `Retell AI` `OpenFace` `Django` `Next.js` `React` | AI interviewer + evaluator — real-time voice, transcripts, session analytics dashboard |
 
 ---
 
